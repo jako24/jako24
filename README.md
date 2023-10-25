@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @jako24
-- 👀 I’m interested in sports, IT, AI and ML
-- 🌱 I’m currently studying Artificial Intelligence in Amsterdam 
-- 💞️ I’m looking to collaborate on everything which is python, machine learning, AI etc. related
-- 📫 How to reach me email: korczynskijanek24@gmail.com
+# Hi, I'm Janek! 
+- 📫 How to reach me: korczynskijanek24@gmail.com
+- 🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/jan-korczy%C5%84ski-462ab1234/)
+
+| I know well | I am learning | I want to learn |
+| ----------- | ------------- | --------------- |
+| ![Python](url)  | ![React](url) | ![C++](url)  |
+| ![SQL](url) | ![TS](url)    | ![GO](url) |
+
+
+
+
+
+
 
 <!---
 jako24/jako24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
