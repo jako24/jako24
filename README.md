@@ -4,8 +4,9 @@
 
 | I know well | I am learning | I want to learn |
 | ----------- | ------------- | --------------- |
-| ![Python]([url](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png))  | ![React]([url](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png)) | ![C++]([url](https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png))  |
-| ![SQL]([url](https://cdn-icons-png.flaticon.com/512/4299/4299956.png)) | ![TS]([url](https://cdn-icons-png.flaticon.com/512/5968/5968381.png))    | ![GO]([url](https://www.vectorlogo.zone/logos/golang/golang-ar21.png)) |
+| ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png)  | ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png) | ![C++](https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png)  |
+| ![SQL](https://cdn-icons-png.flaticon.com/512/4299/4299956.png) | ![TS](https://cdn-icons-png.flaticon.com/512/5968/5968381.png)    | ![GO](https://www.vectorlogo.zone/logos/golang/golang-ar21.png) |
+
 
 
 
