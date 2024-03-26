@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a former AI/ML Manager at Paidwork and a forme
 ### 📫 How to reach me:
 
 - 📧 korczynskijanek24@gmail.com
-- 💼 [Your LinkedIn](https://www.linkedin.com/in/jan-korczy%C5%84ski-462ab1234/)
+- 💼 [My LinkedIn Account](https://www.linkedin.com/in/jan-korczy%C5%84ski-462ab1234/)
 
 ---
 
