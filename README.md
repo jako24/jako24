@@ -1,50 +1,62 @@
-# Hi, I'm Janek! 
-- 📫 How to reach me: korczynskijanek24@gmail.com
-- 🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/jan-korczy%C5%84ski-462ab1234/)
+## 👋 Hi there! I'm Janek
 
-## 🚀 Skills Overview::
+Welcome to my GitHub profile! I'm a former AI/ML Manager at Paidwork and a former Backend Engineer Intern at Cruzzie Inc., Japan. Currently, I'm completing my 3rd year in an AI Bachelor's program at Vrije Universiteit Amsterdam. Let's dive into my world of coding, AI, and continuous learning!
 
-## ✨ I know well:
+---
 
-Python: The go-to language for AI/ML, scripting, automation, and data analysis.
+### 🎓 Education
 
-PostgreSQL: A robust relational database system, perfect for complex data structures and queries.
+- **Bachelor of Science in Artificial Intelligence**
+  - **Institution:** Vrije Universiteit Amsterdam
+  - **Year:** 3rd Year
+  - **Key Learnings:** Theoretical frameworks and practical applications of AI, machine learning, data science, and data analytics. 
+  
+### 📜 Certifications
 
-SQL: The universal language for managing and querying databases.
+- [PCAP-31-03] PCAP – Certified Associate in Python Programming
+- Google Data Analytics Certification
 
-GIT: The essential version control system, enabling seamless collaboration and change tracking.
+---
 
-HTML & CSS: The twin pillars of web design, providing structure and style to every webpage.
+### 💼 Professional Experience
 
-## ⭐ I am learning:
+- **AI/ML Manager at Paidwork**
+  - **Technologies Used:** Python, PyTorch, Tensorflow, OpenCV, LLMs, Github
+  - **Role:** Lead and manage AI/ML projects, driving innovation and ensuring the implementation of cutting-edge solutions.
 
-React.js: Pioneering the realm of component-based UI design for more interactive web experiences.
+- **Backend Engineer Intern at Cruzzie Inc., Japan**
+  - **Technologies Used:** TypeScript, JavaScript, Node.js, Express.js, Github, and various database technologies.
+  - **Contributions:** Developed robust and scalable web applications that bolstered the company's tech advancements.
 
-TypeScript: Adding type safety to JavaScript, ensuring more reliable and scalable code.
+---
 
-Express.js & Next.js: Fast-tracking web application development with Node.js.
+### 🛠 Skills
 
-JavaScript: The omnipresent scripting language that breathes life into every web page.
+- **Languages:** Python, TypeScript, JavaScript, SQL 
+- **Frameworks:** Node.js, Express.js
+- **Technologies:** Machine Learning, Data Science, AI
+- **Tools:** Git, GitHub, various database technologies
 
-## 🌟 I aspire to master:
+---
 
-Node.js: Powering the backend with its event-driven architecture.
+### 🌱 I'm currently learning
 
-C++: Diving deeper into system-level programming with this versatile language.
+- Advanced AI algorithms and their practical applications in the real world.
+- Enhancing my backend development skills with the latest frameworks and technologies.
 
-Laravel: Harnessing the beauty and power of this PHP framework for enhanced web development.
+---
 
+### 📫 How to reach me:
 
+- 📧 korczynskijanek24@gmail.com
+- 💼 [Your LinkedIn](https://www.linkedin.com/in/jan-korczy%C5%84ski-462ab1234/)
 
+---
 
+### ⚡ Fun fact:
 
+I'm deeply passionate about exploring the latest developments in AI and machine learning and applying this knowledge to solve real-world problems. Whether it's through coding, collaboration, or continuous learning, I'm always looking to push the boundaries of what's possible with technology!
 
+---
 
-
-
-
-
-<!---
-jako24/jako24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to fork or star my repositories if you find something that interests you. Let's connect and build something amazing together!
