@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a former AI/ML Manager at Paidwork and a forme
 
 ### 💼 Professional Experience
 
-- **AI/ML Manager at Paidwork**
+- **AI/ML Manager at Paidwork, Remote**
   - **Technologies Used:** Python, PyTorch, Tensorflow, OpenCV, LLMs, Github
   - **Role:** Lead and manage AI/ML projects, driving innovation and ensuring the implementation of cutting-edge solutions.
 
@@ -56,6 +56,7 @@ Welcome to my GitHub profile! I'm a former AI/ML Manager at Paidwork and a forme
 ### ⚡ Fun fact:
 
 I'm deeply passionate about exploring the latest developments in AI and machine learning and applying this knowledge to solve real-world problems. Whether it's through coding, collaboration, or continuous learning, I'm always looking to push the boundaries of what's possible with technology!
+Also set up a new goal lately, half-marathon in Berlin see you soon! 
 
 ---
 
