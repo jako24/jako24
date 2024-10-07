@@ -1,15 +1,20 @@
 ## 👋 Hi there! I'm Janek
 
-Welcome to my GitHub profile! I'm a former AI/ML Manager at Paidwork and a former Backend Engineer Intern at Cruzzie Inc., Japan. Currently, I'm completing my 3rd year in an AI Bachelor's program at Vrije Universiteit Amsterdam. Let's dive into my world of coding, AI, and continuous learning!
+Welcome to my GitHub profile! I'm an aspiring AI Engineer with almost a year of experience in the AI field. Currently, I'm currently in my 1st year in an AI Mastere's program at Vrije Universiteit Amsterdam. Let's dive into my world of coding, AI, and continuous learning!
 
 ---
 
 ### 🎓 Education
 
+- **Masters of Science in Artificial Intelligence**
+  - **Institution:** Vrije Universiteit Amsterdam
+  - **Year:** 2024 - 2026
+  - **Key Learnings:** Practical applications of AI, advanced machine learning, data science, and data analytics. 
+
 - **Bachelor of Science in Artificial Intelligence**
   - **Institution:** Vrije Universiteit Amsterdam
-  - **Year:** 3rd Year
-  - **Key Learnings:** Theoretical frameworks and practical applications of AI, machine learning, data science, and data analytics. 
+  - **Year:** 2021 - 2024
+  - **Key Learnings:** Theoretical frameworks and practical applications of AI, machine learning, data science, and data analytics.
   
 ### 📜 Certifications
 
@@ -20,7 +25,11 @@ Welcome to my GitHub profile! I'm a former AI/ML Manager at Paidwork and a forme
 
 ### 💼 Professional Experience
 
-- **AI/ML Manager at Paidwork, Remote**
+- **AI Engineer Intern, Bengaluru, Karnataka, India On-site**
+  - **Technologies Used:** Python, OpenCV, GPT-3.5 Turbo, GenAI, Llama, Gemma, Mistral, Langchain, Github, PyTorch
+  - **Role:** Working on the CV Extraction and candidate comparison system, ensuring data privacy, fairness and ethical AI
+
+- **AI/ML Manager at Paidwork, Remote (Poland)**
   - **Technologies Used:** Python, PyTorch, Tensorflow, OpenCV, LLMs, Github
   - **Role:** Lead and manage AI/ML projects, driving innovation and ensuring the implementation of cutting-edge solutions.
 
@@ -42,6 +51,7 @@ Welcome to my GitHub profile! I'm a former AI/ML Manager at Paidwork and a forme
 ### 🌱 I'm currently learning
 
 - Advanced AI algorithms and their practical applications in the real world.
+- AWS cloud system
 - Enhancing my backend development skills with the latest frameworks and technologies.
 
 ---
