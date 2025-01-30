@@ -41,10 +41,11 @@ Welcome to my GitHub profile! I'm an aspiring AI Engineer with almost a year of 
 
 ### 🛠 Skills
 
-- **Languages:** Python, TypeScript, JavaScript, SQL 
-- **Frameworks:** Node.js, Express.js
-- **Technologies:** Machine Learning, Data Science, AI
-- **Tools:** Git, GitHub, various database technologies
+### 🚀 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jako24&show_icons=true&theme=dark)
+
+### 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jako24&layout=compact&theme=dark)
 
 ---
 
