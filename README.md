@@ -39,8 +39,6 @@ Welcome to my GitHub profile! I'm an aspiring AI Engineer with almost a year of 
 
 ---
 
-### 🛠 Skills
-
 ### 🚀 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jako24&show_icons=true&theme=dark)
 
