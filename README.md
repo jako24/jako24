@@ -45,6 +45,9 @@ Welcome to my GitHub profile! I'm an aspiring AI Engineer with almost a year of 
 ### 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jako24&layout=compact&theme=dark)
 
+### 📈 GitHub Profile Summary
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jako24&theme=dark)
+
 ---
 
 ### 🌱 I'm currently learning
